@@ -4,4 +4,4 @@ Welcome to my repository for the MCIS 6273 Data Mining!
 
 ## About Me
 
-- **Zotero Username:** rchiliviri4427
+- **Zotero Username:** rchiluvuri4427
